@@ -10,7 +10,6 @@ Como usar essa aplicação:
 
 No caso acima o retorno foi: suspicious. 
 
-Nosso programa está configurado para verificar o HTML e procurar as seguintes palavras:  
-* "black friday", "promoção" e "senha";
+Nosso programa está configurado para verificar o HTML e procurar as seguintes palavras: "black friday", "promoção" e "senha";
 
-Caso o site seja válido o retorno será: safe;
+Caso o site seja válido o retorno será: safe.
